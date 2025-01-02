@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "Spotify Stats Analyzer",
+      "url": "https://thunderous-tartufo-4e7ec3.netlify.app/",
+      "logo": "/logos/SpotifyAnalyzer.png",
+      "summary": "A web app that analyzes your Spotify listening habits and provides detailed statistics about your favorite artists and tracks."
+    },
+    {
+      "title": "Project B",
+      "url": "https://example.com/project-b",
+      "logo": "/portfolio-2025/logos/project-b.png",
+      "summary": "An innovative solution for managing complex data workflows with intuitive visualizations."
+    },
+    {
+      "title": "Project C",
+      "url": "https://example.com/project-c",
+      "logo": "/portfolio-2025/logos/project-c.png",
+      "summary": "A collaborative platform that streamlines team communication and project management."
+    }
+  ]
+}
