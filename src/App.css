@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
   --primary-bg: #F7F0E9;
   --secondary-bg: #EDE5E1;
@@ -23,8 +25,6 @@
   --border-subtle: #334155;
   --shadow-color: rgba(255, 255, 255, 0.1);
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 body {
   margin: 0;
